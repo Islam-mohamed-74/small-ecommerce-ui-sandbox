@@ -1,7 +1,7 @@
 # e-commerce-ui — Client (Learning Project)
 
 This project was created to learn how to structure a small e-commerce frontend and to gain hands-on experience with specific frontend tools and patterns. It’s a focused sandbox that lets you experiment with Next.js App Router, TypeScript, Tailwind CSS, and state + form libraries used in real projects.
-
+![preview](./image.jpg)
 Purpose
 
 - Learn how to structure an e-commerce/admin UI (routes, layouts, components).
