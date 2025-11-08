@@ -83,8 +83,8 @@ const steps = [
 export default function CartContent() {
   const searchParams = useSearchParams();
   const router = useRouter();
-  const [shippingForm, setShippingForm] =
-    (useState < shippingFormInputs) | (null > null);
+  // shippingForm holds the data from ShippingForm; initialized to null
+  const [shippingForm, setShippingForm] = useState(null);
 
   const activeStep = parseInt(searchParams.get("step") || "1");
 
